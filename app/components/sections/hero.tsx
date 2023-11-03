@@ -12,6 +12,7 @@ function Hero() {
                 <div className='flex space-x-4 items-center'>
                     <div className='h-20 w-2 rounded-full bg-primary' />
                     <p className='text-muted-foreground'>
+                        {/* eslint-disable-next-line react/no-unescaped-entities */}
                         We possess the agility to assemble the right team to provide tailored construction solutions, a steadfast commitment to enhancing your business's bottom line, and the capacity to harness innovation to address evolving challenges and maintain your leading position in the industry.
                     </p>
                 </div>
